@@ -1,0 +1,13 @@
+{
+  "name": "speedtestDashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LoggeL/speedtestDashboard",
+  "author": "LoggeL <hyper.xjo@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.95.10",
+    "speedtest-net": "^2.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
